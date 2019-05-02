@@ -1,21 +1,13 @@
 ---
 view: none
 ---
+This blog is home to writing, RP character sheets, screenshots, and personal artwork dealing with FFXIV and my character, Alzena Fey. She's been with me for almost 10 years now.
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
-This footer text can be edited in about.md
+This blog is self hosted and run by myself. I'm actually a web developer, so I couldn't pass up the opportunity to play with tech and make this myself!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+This blog is NSFW by default! So heads up if you're sensitive to that type of thing. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
+Follow me on: [My Personal Twitter][1] for everything FFXIV related, and on [My Professional Twitter][2] for updates with my game projects and artwork.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: http://twitter.com/forleafeclover
+[2]: http://twitter.com/forleafe

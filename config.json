@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "url": "http://alzenafey.me",
+    "name": "The Scratching Post",
+    "owner": "Forleafe",
+    "description": "Screenshots, Artwork, and RP info for my character Alzena"
   },
   "plugins": [
     "./plugins/paginator.coffee"
